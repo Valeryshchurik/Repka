@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+//MY PROGRAM
 #define PLACE_COUNT 12
 
 typedef struct _Seat
